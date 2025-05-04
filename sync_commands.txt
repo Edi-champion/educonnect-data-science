@@ -1,0 +1,7 @@
+These are the commands used to synchronize my local repo:
+
+git add .
+git commit -m 'message'
+git pull
+git merge + resolving conflicts
+git push
